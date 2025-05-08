@@ -390,6 +390,14 @@ xml
 3.2
 file:///Users/congqian/.pub-cache/hosted/pub.dev/xml-6.5.0/
 file:///Users/congqian/.pub-cache/hosted/pub.dev/xml-6.5.0/lib/
+appflowy_editor
+3.4
+file:///Users/congqian/code/codeSource/appflowy_editor_qc/
+file:///Users/congqian/code/codeSource/appflowy_editor_qc/lib/
+example
+3.0
+file:///Users/congqian/code/codeSource/appflowy_editor_qc/example/
+file:///Users/congqian/code/codeSource/appflowy_editor_qc/example/lib/
 sky_engine
 3.2
 file:///Users/congqian/code/flutter-3.27.4/bin/cache/pkg/sky_engine/
@@ -410,12 +418,4 @@ flutter_web_plugins
 3.2
 file:///Users/congqian/code/flutter-3.27.4/packages/flutter_web_plugins/
 file:///Users/congqian/code/flutter-3.27.4/packages/flutter_web_plugins/lib/
-appflowy_editor
-3.4
-file:///Users/congqian/work/renaapp/packages/appflowy_editor-5.2.0/
-file:///Users/congqian/work/renaapp/packages/appflowy_editor-5.2.0/lib/
-example
-3.0
-file:///Users/congqian/work/renaapp/packages/appflowy_editor-5.2.0/example/
-file:///Users/congqian/work/renaapp/packages/appflowy_editor-5.2.0/example/lib/
 2

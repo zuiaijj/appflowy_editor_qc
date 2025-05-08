@@ -85,6 +85,7 @@ class _MobileEditorState extends State<MobileEditor> {
                   ),
                 );
               },
+              context: context,
               child: AppFlowyEditor(
                 editorStyle: editorStyle,
                 editorState: editorState,
